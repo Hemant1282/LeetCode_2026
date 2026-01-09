@@ -8,5 +8,33 @@ class TwoSum {
             }
         }
         return new int[] {};
+
+        
     }
+
+    public static void main(String[] args) {
+        Student s
+    }
+}
+
+class Student{
+    String name;
+    int age;
+
+    String get_name(){
+        return this.name;
+    }
+
+    int get_age(){
+        return this.age;
+    }
+
+    void set_name(String newname){
+        name = newname;
+    }
+
+    void set_age(int newage){
+        age = newage;
+    }
+
 }

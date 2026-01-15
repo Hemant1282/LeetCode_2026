@@ -1,4 +1,4 @@
-import java.util.*;
+
 class longest_pal_substr{
     public static String longestPalindrome(String s) {
         if (s == null || s.length() == 0) {

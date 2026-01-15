@@ -10,5 +10,6 @@ public class singlenum_leet12 {
     public static void main(String args[]){
         int nums[] = {1,1,2,2,3};
         int ans = singleNumber(nums);
+        System.out.println(ans);
     }
 }

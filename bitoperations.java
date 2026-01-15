@@ -22,10 +22,10 @@ public class bitoperations {
 
     public static int update_ith_bit(int num,int i,int newbit){
         if(newbit == 0){
-            clear_ith_bit(num, i);
+            return clear_ith_bit(num, i);
         }
         else{
-            set_ith_bit(num, i);
+            return set_ith_bit(num, i);
         }
     }
 

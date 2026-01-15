@@ -25,5 +25,6 @@ public class Palindrome_check_leet1{
         int num = sc.nextInt();
         String result = check_palindrome(num)? "It is a palindrome" : "It is not a palindrome";
         System.out.println(result);
+        sc.close();
     }
 }

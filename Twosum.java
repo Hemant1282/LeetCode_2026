@@ -13,7 +13,7 @@ class TwoSum {
     }
 
     public static void main(String[] args) {
-        Student s
+    
     }
 }
 

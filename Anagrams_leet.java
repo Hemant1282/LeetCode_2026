@@ -1,5 +1,5 @@
 class isAnagram_leetx {
-    public static boolean isAnagram(String s, String t) {
+    public static   boolean isAnagram(String s, String t) {
         int count[] = new int[256];
         int count2[] = new int[256];
         for (int i = 0; i < s.length(); i++) {

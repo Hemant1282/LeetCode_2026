@@ -58,4 +58,9 @@ class word_search {
             }
             return false;
         }
+
+
+        public static void main(String[] args) {
+            
+        }
 }

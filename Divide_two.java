@@ -33,6 +33,6 @@ public class Divide_two {
     }
 
     public static void main(String[] args) {
-        
+         
     }
 }
